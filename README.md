@@ -1,6 +1,6 @@
 # 🌿 Welcome to SkinTherapist 🌿
 
-Hello, lovely team! 👋 Welcome to the cozy corner of our SkinTherapist app. Grab a cup of tea, settle in, and let's chat about this exciting project we're nurturing together.
+Hello,👋 Welcome to the cozy corner of our SkinTherapist app. Grab a cup of tea, settle in, and let's chat about this exciting project we're nurturing together.
 
 ## 🌟 What's SkinTherapist All About?
 
