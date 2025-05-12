@@ -2,9 +2,9 @@
 
 Hello,👋 Welcome to the cozy corner of our SkinTherapist app. Grab a cup of tea, settle in, and let's chat about this exciting project we're nurturing together.
 
-<img src="https://github.com/user-attachments/assets/af462adc-4378-4653-823b-58d1dc6f42e7" width="500">
-<img src="https://github.com/user-attachments/assets/09adb941-dcc9-4446-ad86-022d9650e426" width="500">
-<img src="https://github.com/user-attachments/assets/65b7b839-6ee0-4e6e-b539-0a435086f7ca" width="500">
+<img src="https://github.com/user-attachments/assets/af462adc-4378-4653-823b-58d1dc6f42e7" width="200">
+<img src="https://github.com/user-attachments/assets/09adb941-dcc9-4446-ad86-022d9650e426" width="200">
+<img src="https://github.com/user-attachments/assets/65b7b839-6ee0-4e6e-b539-0a435086f7ca" width="200">
 
 ## What's SkinTherapist All About?
 
